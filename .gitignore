@@ -1,0 +1,22 @@
+# Node modules (temporary background files created by the React browser app)
+node_modules/
+.pnpm-store/
+.lock-wscript
+
+# Build and compilation outputs
+dist/
+build/
+
+# Local configuration files and environment secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating System background junk
+.DS_Store
+Thumbs.db
+
+# Private sandbox history folder (keeps old date-stamped file variants safe on your machine but hidden from GitHub)
+docs/workspace-history/
