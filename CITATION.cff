@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software or historical reconstruction in your research, please cite it using the metadata below."
 title: "The DIVER Simulation Model: A 1978/79 Human-Centered Diving Safety Interface Reconstruction"
 version: 1.0.0
-date-released: 2026-11-13
-url: "https://github.com/JD-Sorn/diver-historical-reconstruction"
-repository-code: "https://github.com/JD-Sorn/diver-historical-reconstruction"
+date-released: 2026-11-12
+url: "https://github.com"
+repository-code: "https://github.com"
 license: MIT
 authors:
   - family-names: "Dunlop"
